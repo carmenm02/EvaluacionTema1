@@ -15,5 +15,5 @@ if len(sys.argv) == 3:
             print(" ")
             for c in range(columnas):
                 print(" * ", end='')
-
-    
+else:
+    print("Error")
