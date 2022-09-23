@@ -20,7 +20,7 @@ matriz[3][-1] = sum(matriz[3][:-1])
 print(matriz)
 ```
 ```
-##Ejercicio2:
+## Ejercicio2:
 
 cadenadetexto = input("Introduce una cadena de texto: ")
 
@@ -28,7 +28,7 @@ print("¿Es su longitud mayor o igual a 3 y menor de 10?",
 len(cadenadetexto) >= 3 and len(cadenadetexto) < 10)
 ```
 ```
-##Ejercicio 3:
+## Ejercicio 3:
 
 lista1 = list(range(0,11))
 print(lista1)
@@ -42,7 +42,7 @@ lista5 = list(range(0,51,5))
 print(lista5)
 ```
 ```
-##Ejercicio4:
+## Ejercicio4:
 
 import sys
 from pyparsing import col
