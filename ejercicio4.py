@@ -1,7 +1,5 @@
 #Para hacer el punto 2 debo hacer primero el 1, ya que necesito crear antes las filas y las columnas
-
 import sys
-
 from pyparsing import col
 
 if len(sys.argv) == 3:
